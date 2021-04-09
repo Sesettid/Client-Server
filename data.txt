@@ -1,0 +1,20 @@
+John|43|123 Apple street|514 428-3452
+Joseph|63|123 Orange street|514 428-3785
+Alica| 33|143 Strawberry street|514 428-6854
+Johnny|13|1160 Guy street|
+Max|23||514 428-3452
+Jo|25|122 Apple street|514 428-6852
+Maggie||1280 St Marc street|614 428-3955
+Reggie|69|Excaliber street|438 912-1405
+Waled|50|20 Avenue street|514 677 1542
+Jaswanth|32|80 Baker Street|514 428-9900
+Bravo|27|123 Mango street|514 148-0000
+Ram|19|990 Barclaw street|514 428-2548
+Robert|40|44 Arlington Avenue|438 444-4444
+Jacob|36|123 Piper Street|897 776-1234
+Sam|26|100 Detriot Avenue|
+Bob|10|10 Alamba street|514 358-3452
+Manny|37|90 Syndey area|678 000-0007
+Rebbeca|30|20 Burlington street|514 877-3522
+Vlad|43||514 428-9852
+Doug|50|51 Banana street|517 677-1559
